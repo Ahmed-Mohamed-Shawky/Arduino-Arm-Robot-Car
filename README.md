@@ -35,6 +35,25 @@ This project is an Arduino-controlled RC car with a robotic arm. The car’s mov
 2. **Connect to the Bluetooth module**: Pair your mobile device with the Arduino Bluetooth module using the mobile app.
 3. **Control the car and arm**: Once connected, you can use the app to send commands and control the RC car and robotic arm via Bluetooth.
 
+### Components List
+
+| Component                    | Quantity |
+|------------------------------|----------|
+| Arduino Uno                   | 1        |
+| L298N Motor Driver            | 2        |
+| DC Motors                     | 3        |
+| Servo Motors                  | 3        |
+| HC-05 Bluetooth Module        | 1        |
+| 9V Batteries                  | 2        |
+| Battery Holders               | 2        |
+| Jumper Wires                  | Multiple |
+| Breadboard                    | 1        |
+| Wheels (for the car Motors)   | 2        |
+| Caster Wheel (for the car front) | 1         |
+| Chassis (for the car and arm)  | 1        |
+| Robotic Arm Kit (with joints) | 1        |
+
+
 ### Hardware Wiring Connections
 
 | Component               | Arduino Pin        | Description                                   |
